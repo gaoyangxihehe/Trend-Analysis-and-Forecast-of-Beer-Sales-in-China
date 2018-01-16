@@ -1,1 +1,7 @@
-# Trend-Analysis-and-Forecast-of-Beer-Sales-in-China
+# 我国国内啤酒销售量的趋势分析及预测
+
+本文尝试利用时间序列分析和预测科学中的方法，尝试分析我国1998-2015年啤酒销售量的时间序列数据，具体方法为：
+
+* 指数平滑法
+* ARIMA模型
+* BSTS模型
